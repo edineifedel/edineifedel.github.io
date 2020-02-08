@@ -1,0 +1,50 @@
+# Site settings
+
+#titles
+title: Edinei Fedel
+author_title: Software Developer
+home_title: Home
+about_title: About
+
+#url
+# url: http://edineifedel.com
+
+#bio
+author: Edinei Fedel
+author_photo: profile-photo.jpg
+
+description: |
+  Edinei Fedel is a Software Developer.
+
+user_description: |
+  Edinei Fedel is a Software Developer.
+
+# tags social links
+email: edineifedel@gmail.com
+linkedin: edinei-fedel-845b5228
+github: edineifedel
+twitter: edineifedel
+facebook: edineifedel
+
+## Disqus
+disqus_identifier: edineifedel
+
+## Tracker
+# google_analytics_id: UA-157541538-1
+
+keywords: 'software,developer,design,java,javascript,bass,music,edinei fedel,fedel'
+
+## URLs
+# permalink: ':title/'3
+baseurl: ''
+home_url: '/'
+about_url: '/about'
+
+plugins:
+  - jekyll-feed
+
+# include: [_pages]
+exclude: ['package.json', 'src' , 'node_modules', 'Gemfile', 'LICENSE', 'README.md']
+
+# sass:
+#   style: compressed
