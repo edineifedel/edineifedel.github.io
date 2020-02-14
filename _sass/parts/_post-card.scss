@@ -39,16 +39,16 @@
   }
   .card-column {
     text-align: center;
+    &:hover {
+      .play-button-icon {
+        font-size: 40px;
+      }
+    }
   }
   .card-img {
       max-width: 100%;
-      height: auto;
+      height: 200px;
       width: auto;
-      &:hover {
-        .play-button-icon {
-          font-size: 40px;
-        }
-      }
   }
   .play-button-icon {
     transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
@@ -66,9 +66,8 @@
   box-shadow: 0 0 20px 0 rgba(0,0,0,0.1)
 }
 
-
-// .post-grid {
-//   .post-grid-item {
-//     width: 100%;
-//   }
-// }
+.post-grid {
+  .post-grid-item {
+    width: 100%;
+  }
+}

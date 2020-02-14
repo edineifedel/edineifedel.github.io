@@ -35,7 +35,7 @@ disqus_identifier: edineifedel
 keywords: 'software,developer,design,java,javascript,bass,music,edinei fedel,fedel'
 
 ## URLs
-# permalink: ':title/'3
+permalink: ':title/'
 baseurl: ''
 home_url: '/'
 about_url: '/about'
