@@ -13,11 +13,12 @@ about_title: About
 author: Edinei Fedel
 author_photo: profile-photo.jpg
 
-description: |
-  Edinei Fedel is a Software Developer.
-
 user_description: |
-  Edinei Fedel is a Software Developer.
+  My name is Edinei Fedel and I am a proud father, man of faith, and passionate technologist from Brazil.
+  
+  I'm envolved with the web since early 2000s. My first website was a static monstruosity on a free hosting server. Since then I've learned a lot of programming languages and technologies, mostly specializing in JVM.
+  
+  Outside of programming I enjoy playing bass, making beer and drinking coffee.
 
 # tags social links
 email: edineifedel@gmail.com
@@ -30,7 +31,7 @@ facebook: edineifedel
 disqus_identifier: edineifedel
 
 ## Tracker
-# google_analytics_id: UA-157541538-1
+google_analytics_id: UA-157541538-1
 
 keywords: 'software,developer,design,java,javascript,bass,music,edinei fedel,fedel'
 
@@ -43,7 +44,6 @@ about_url: '/about'
 plugins:
   - jekyll-feed
 
-# include: [_pages]
 exclude: ['package.json', 'src' , 'node_modules', 'Gemfile', 'LICENSE', 'README.md']
 
 # sass:
