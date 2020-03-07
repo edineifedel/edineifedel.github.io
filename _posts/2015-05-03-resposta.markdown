@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Ney Conceição - Resposta [bass cover]"
+date: 2015-05-03 08:00:00 -0300
+tags: [music]
+image: 2015-05-03-resposta.png
+type: video
+---
+Música instrumental do mestre Ney Conceição.
+
+<div class="iframe-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G9zh6up6xYU" frameborder="0" allowfullscreen></iframe>
+</div>

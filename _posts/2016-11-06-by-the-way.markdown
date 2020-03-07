@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "RHCP - By The Way [bass cover]"
+date: 2016-11-06 08:00:00 -0300
+tags: [music]
+image: 2016-11-06-by-the-way.png
+type: video
+---
+This is a bass cover of By The Way by Red Hot Chili Peppers.
+
+<div class="iframe-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FGVF9D4YXDA" frameborder="0" allowfullscreen></iframe>
+</div>
