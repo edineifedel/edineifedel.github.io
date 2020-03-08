@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Cama de Gato - A Feira [bass cover]"
+date: 2009-01-28 08:00:00 -0300
+tags: [music]
+image: 2009-01-28-a-feira.png
+type: video
+---
+Teclados: Jota Moraes  
+Sax / Flauta: Mauro Senise  
+Bateria: Pascoal Meirelles
+
+<div class="iframe-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZJuMVBYuys0" frameborder="0" allowfullscreen></iframe>
+</div>
