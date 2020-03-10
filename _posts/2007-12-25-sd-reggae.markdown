@@ -6,9 +6,7 @@ tags: [music]
 image: 2007-12-25-sd-reggae.png
 type: video
 ---
-Guitarra: João Castilho  
-Bateria: Renato Massa  
-Baixo: Nei (linha original André Rodrigues)
+Guitarra: João Castilho / Bateria: Renato Massa / Baixo: Nei (linha original André Rodrigues)
 
 <div class="iframe-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4s8Mrdw570Y" frameborder="0" allowfullscreen></iframe>

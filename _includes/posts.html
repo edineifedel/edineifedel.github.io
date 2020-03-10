@@ -3,7 +3,7 @@
         {% for post in site.posts %}
         <div class="card mb-2 post-grid-item {{ post.tags | join: ' ' }}">
             <div class="row no-gutters">
-                <div class="col-md-3 card-column">
+                <div class="col-md-2 card-column">
                     <a href="{{post.url | prepend: site.baseurl}}">
                         <img class="card-img" src="{{ "/assets/img/" | prepend: site.baseurl | append: post.image }}">
                         {% if post.type == 'video' %}
@@ -14,7 +14,7 @@
                         {% endif %}
                     </a>
                 </div>
-                <div class="col-md-9">
+                <div class="col-md-10">
                 <div class="card-body">
                     <h5 class="card-title">
                         <a href="{{post.url | prepend: site.baseurl}}"> {{ post.title }} </a>
