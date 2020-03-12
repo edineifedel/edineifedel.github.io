@@ -1,8 +1,8 @@
 window.addEventListener('load', () => { 
     let elem = document.querySelector('.post-grid');
     let iso = new Isotope(elem, { 
-        layoutMode: 'vertical',
-        itemSelector: '.post-grid-item' 
+        layoutMode: 'packery',
+        itemSelector: '.grid-item'
     });
 
     // initial arrange
